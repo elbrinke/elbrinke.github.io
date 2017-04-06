@@ -1,10 +1,12 @@
 h1 {
-	font-family: Helvetica;
+	font-family: monospace;
 	color: rgba(0, 0, 0, 0.5);
 	font-style: bold;
+	font-weight:500;
 }
 h2 {
-	font-family: Helvetica;
+	font-family: monospace;
 	color: rgba(7, 138, 7, 0.71);
-	font-style: italic;
+	font-style: !important;
+	font-weight:100;
 }
