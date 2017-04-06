@@ -1,3 +1,6 @@
+body {
+	text-align: center;
+}
 img.center {
   display: block;
   width: 100%;
@@ -9,7 +12,7 @@ h1 {
 	font-family: monospace;
 	color: rgba(0, 0, 0, 0.5);
 	font-style: bold;
-	font-weight: 500;
+	font-weight: 600;
 	text-align: center;
 	text-decoration: blink;
 	font-size: 35px;
