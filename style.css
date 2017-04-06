@@ -2,3 +2,8 @@ h1 {
 	font-family: Helvetica;
 	color: #1B4F72;
 }
+h2 {
+	font-family: Helvetica;
+	color: green;
+	font-style: italic;
+}
