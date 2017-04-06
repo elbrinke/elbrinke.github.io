@@ -1,5 +1,7 @@
 header {
 	align-content: center;
+	image-rendering: crisp-edges;
+	align-items: center;
 }
 h1 {
 	font-family: monospace;
