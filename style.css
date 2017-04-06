@@ -31,3 +31,11 @@ footer {
 	text-decoration: blink;
 	font-size: 15px;
 }
+ul.services {
+	font-family: monospace;
+	color: rgba(7, 138, 7, 0.71);
+	font-style: !important;
+	font-weight:400;
+	text-align: center;
+	list-style-position: inside;
+}
