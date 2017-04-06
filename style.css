@@ -22,3 +22,12 @@ h2 {
 	text-align: center;
 	text-decoration: underline;
 }
+footer {
+	font-family: monospace;
+	color: rgba(0, 0, 0, 0.5);
+	font-style: bold;
+	font-weight: 200;
+	text-align: center;
+	text-decoration: blink;
+	font-size: 15px;
+}
