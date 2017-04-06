@@ -3,10 +3,12 @@ h1 {
 	color: rgba(0, 0, 0, 0.5);
 	font-style: bold;
 	font-weight:500;
+	text-align: center;
 }
 h2 {
 	font-family: monospace;
 	color: rgba(7, 138, 7, 0.71);
 	font-style: !important;
 	font-weight:100;
+	text-align: center;
 }
