@@ -1,7 +1,9 @@
-header {
-	align-content: center;
-	image-rendering: crisp-edges;
-	align-items: center;
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  align-items: center;
 }
 h1 {
 	font-family: monospace;
